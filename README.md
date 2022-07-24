@@ -1,5 +1,6 @@
 # Grasp_Assuming_Symmetry
 DR Project
+resolver.cpp files prints out all the completed pointclouds. Below are the images of completed point cloud after point cloud processing
 
 Useful link for literature- http://libgen.li/series.php?id=51765
 ![Screenshot from 2022-07-17 17-17-36](https://user-images.githubusercontent.com/92198336/180644242-b22f8687-1333-4691-8cb8-13ffa44141f5.png)
